@@ -1,2 +1,2 @@
 # NewsApp
-this a news app that uses MVVM architecture pattern and written in kotlin.
+This is a news application that uses MVVM architecture pattern And written in kotlin
