@@ -6,6 +6,6 @@ NewsApp is an app that attempts to use the latest cutting edge libraries and too
 
 Entirely written in Kotlin.</br>
 Uses Kotlin Coroutines throughout.</br>
-Uses many of the Architecture Components, including: Room, Lifecycle, Navigation.
-Retrofit - REST webservices
+Uses many of the Architecture Components, including: Room, Lifecycle, Navigation.</br>
+Retrofit - REST webservices</br>
 and ...
